@@ -2,11 +2,17 @@ h2{
     text-align: center;
 }
 .card {
-    height: 400px; /* Your height here */
+    height: 350px; /* Your height here */
     overflow: hidden;
 }
 
 .card-image {
     height: 250px; /* Your height here */
     overflow: hidden;
+}
+.card .card-content{
+    padding: 0px;
+}
+.text-container{
+    padding: 15px;
 }
